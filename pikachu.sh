@@ -1,2 +1,2 @@
 echo "Hi!! I'm Pikachu"
-Pls come Voldemort
+echo "Pls come Voldemort"
